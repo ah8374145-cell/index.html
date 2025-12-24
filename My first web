@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asma's First Website</title>
+    <style>
+        body {
+            background-color: #0f0f1f;
+            color: #00f2ff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 50px;
+            text-shadow: 0 0 20px #00f2ff;
+        }
+        p {
+            font-size: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #00f2ff;
+            color: #000;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            box-shadow: 0 0 15px #00f2ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>CYBER GLOW</h1>
+    <p>Welcome to Asma's Official Website</p>
+    <br>
+    <a href="#" class="btn">Click Here</a>
+</body>
+</html>
